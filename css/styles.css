@@ -134,8 +134,12 @@ a.header-contacts {
 /* #endregion main-header*/
 /* #region main-section */
 .main-section {
-    background-color: #2e2f42;
+   
     padding: 188px 0;
+    background: linear-gradient(
+      rgba(46, 47, 66, 0.7), 
+      rgba(46, 47, 66, 0.7)),
+       url("../images/people-office.jpg")  center/cover no-repeat;
 }
 .main-container {
   margin:0 auto;
@@ -179,6 +183,16 @@ button:active, button:hover, button:focus {
 }
 .principle-block {
     width: calc((100% - 72px) / 4);
+}
+.principle-icon-block {
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    background-color: #F4F4FD;
+    margin-bottom: 8px;
+}
+.principle-icon {
+    margin: 24px auto;
+
 }
 .principle-title {
     font-weight: 500;
