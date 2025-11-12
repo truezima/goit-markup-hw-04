@@ -488,6 +488,9 @@ button:active, button:hover, button:focus {
     justify-content: flex-start;
     align-items: baseline;
 }
+.footer-icon {
+    fill: #f4f4fd;
+}
 .footer-icon-li {
     display: flex;
     justify-content: center;
