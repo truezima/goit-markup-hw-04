@@ -320,8 +320,8 @@ button:active, button:hover, button:focus {
 }
 
  .team-icon-href:hover,
- .team-icon-href:hover,
- .team-icon-href:hover {
+ .team-icon-href:active,
+ .team-icon-href:focus {
    background-color: #404BBF;
 }
 .team-icon-href {
@@ -469,8 +469,8 @@ button:active, button:hover, button:focus {
      align-items: center;
 }
 .footer-icon-href:hover,
-.footer-icon-href:hover:active,
-.footer-icon-href:hover:focus {
+.footer-icon-href:active,
+.footer-icon-href:focus {
    background-color: #31D0AA;
 }
 .footer-social {
