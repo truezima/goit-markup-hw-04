@@ -303,7 +303,7 @@ button:active, button:hover, button:focus {
     width: 40px;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -432,7 +432,7 @@ button:active, button:hover, button:focus {
     gap:16px;
 }
 .footer-icon {
-    display: block;
+    
 }
 .foter-icon-href{
     background-color: #4D5AE5;
@@ -442,7 +442,7 @@ button:active, button:hover, button:focus {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     justify-content: center;
-    align-content: center;
+     align-items: center;
 }
 .foter-icon-href:hover,
 .foter-icon-href:hover:active,
