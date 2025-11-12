@@ -431,6 +431,9 @@ button:active, button:hover, button:focus {
     align-items: center;
     gap:16px;
 }
+.footer-icon {
+    display: block;
+}
 .foter-icon-href{
     background-color: #4D5AE5;
     border-radius: 50%;
