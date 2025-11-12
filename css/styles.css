@@ -307,15 +307,11 @@ button:active, button:hover, button:focus {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.team-member-card:hover .team-icon-href,
-.team-member-card:active .team-icon-href,
-.team-member-card:focus .team-icon-href{
-    background-color: #404BBF;
-}
-.team-member-card .team-icon-href:hover:hover,
-.team-member-card .team-icon-href:hover:active,
-.team-member-card .team-icon-href:hover:focus {
-   background-color: #31D0AA;
+
+ .team-icon-href:hover:hover,
+ .team-icon-href:hover:active,
+ .team-icon-href:hover:focus {
+   background-color: #404BBF;
 }
 
 /* #endregion section-team */
