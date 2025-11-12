@@ -212,7 +212,7 @@ button:active, button:hover, button:focus {
 }
 .principle-block {
     width: calc((100% - 72px) / 4);
-    height: 112px;
+  
 }
 .principle-icon-block {
     border: 1px solid #8E8F99;
