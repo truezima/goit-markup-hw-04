@@ -192,6 +192,7 @@ button:active, button:hover, button:focus {
 }
 .principle-icon {
     margin: 24px auto;
+    fill: #2a2a2a;
 
 }
 .principle-title {
